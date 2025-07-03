@@ -1,14 +1,14 @@
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=siddhantbhattarai&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jeevanpuri&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 ### About Me:    
-Hi! I'm Siddhant Bhattarai, a passionate DevSecOps Specialist, AWS Cloud Architect, Educator, Machine Learning Practitioner and Cybersecurity Enthusiast. With a strong foundation in Cloud Computing, DevOps, Networking, and Cybersecurity, I specialize in designing secure, scalable cloud solutions and automating SDLC and CI/CD processes to enhance operational efficiency and reliability. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
+Hi! I'm Jeevan Puri, a passionate DevSecOps Specialist, AWS Cloud Architect, Educator, Machine Learning Practitioner and Cybersecurity Enthusiast. With a strong foundation in Cloud Computing, DevOps, Networking, and Cybersecurity, I specialize in designing secure, scalable cloud solutions and automating SDLC and CI/CD processes to enhance operational efficiency and reliability. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
        
    
-### Social media: 📡    
-Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opportunities. 
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddhantacademy101)
+### Social Media (Coming Soon): 📡    
+- [LinkedIn](https://linkedin.com/in/your-link-here)
+- [Twitter](https://twitter.com/your-handle-here)
+- [Portfolio](https://your-portfolio-link-here)
 
 
 ## Languages and Tools 
@@ -78,7 +78,7 @@ Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opp
 <table style="margin: auto;">
     <tr>
         <td align="center">
-            <img width="800" height="220" src="https://streak-stats.demolab.com?user=siddhantbhattarai&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+            <img width="800" height="220" src="https://streak-stats.demolab.com?user=jeevanpuri&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
         </td>
     </tr>
 </table>
@@ -87,28 +87,11 @@ Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opp
     <table style="margin: auto;">
         <tr>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=siddhantbhattarai&count_private=true&show_icons=true&theme=tokyonight"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=jeevanpuri&count_private=true&show_icons=true&theme=tokyonight"/>
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantbhattarai&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanpuri&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
             </td>
         </tr>
     </table>
 </div>
-
-<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">    
-    <!-- Contribution Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantbhattarai&theme=xcode&hide_border=true" alt="Siddhant Bhattarai's Activity Graph" />
-  </div>
-</div>
-<br>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-
